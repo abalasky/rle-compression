@@ -1,0 +1,5 @@
+Write core compression first...
+
+Then everything else.
+
+StudentTests.cpp <-- catch unit tests
