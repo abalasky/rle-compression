@@ -1,16 +1,14 @@
-# ITP 435 PA1 #
+# RLE Compression #
 
-Name: Alexander Balasky
 
-Email: balasky@usc.edu
+### Overview
 
-Platform: [MAC]
+Implementation of [RLE File Compression/Decompression](https://www.markdownguide.org/basic-syntax/) in C++ with [Catch Unit Testing Libary](https://github.com/catchorg/Catch2). Built in VSCode using CMake build system.
 
-### Notes to grader
 
-Developed in VSCode using the Cmake extension.
 
-Passes all tests on Travis and all local *student tests* except compression of *Conquest.ogg* which is off by two bytes. Debugged to no avail. Please have mercy.
+
+
 
 
 
